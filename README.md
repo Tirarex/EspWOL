@@ -3,6 +3,7 @@
 # EspWOL
 
 This project provides a web-based interface for starting PCs using an ESP8266 and Wake On Lan magic packets.
+<img src="Readme/ui.jpg" title="Main Screenshot">
 
 ## Features
 
